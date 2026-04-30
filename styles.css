@@ -583,11 +583,11 @@ body {
   flex-shrink: 0;
 }
 
-.dot-green  { background: #2ecc71; }
-.dot-blue   { background: #3498db; }
+.dot-green { background: #2ecc71; }
+.dot-blue { background: #3498db; }
 .dot-yellow { background: #f1c40f; }
-.dot-red    { background: #e74c3c; }
-.dot-gray   { background: #b2bec3; }
+.dot-red { background: #e74c3c; }
+.dot-gray { background: #b2bec3; }
 
 /* Bar Chart */
 .bar-chart {
